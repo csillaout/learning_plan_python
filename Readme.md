@@ -7,9 +7,8 @@ LEARNING PLAN
 - Python Basics
 - Intermediate Python
 - Object Oriented Python
-- Advanced Python
-- Review
-- Project
+- Advanced Python + GitLab
+- Project + fastAPI
 
 =======================================
 

@@ -89,7 +89,7 @@ WEEK 2
 
 =======================================
 
-3. Object Oriented Python
+3. OBJECT ORIENTED PYTHON
 
 ✅ Classes and Objects
 
@@ -115,7 +115,7 @@ WEEK 2
 
 - Inventory Management System: Create an online store inventory that allows users to add, update, and view products in an store's inventory. Users should also be able to perform operations such as checking stock availability, calculating total inventory value, and generating inventory reports.
 
-4. Advanced Python
+4. ADVANCED PYTHON + GitLab
 
 ✅ Regular Expressions
 
@@ -134,13 +134,18 @@ WEEK 2
 - Understand the basics of creating plots and charts
 - Create a program that creates a data visualization using Matplotlib and/or Seaborn
 
+✅ GitLab
+
+- Setting up an account
+- Uploading project
+
 =======================================
 
 WEEK 3 & 4
 
 =======================================
 
-5. Project
+5. PROJECT + FastAPI
 
 🍔 RECIPE FINDER 🍔
 

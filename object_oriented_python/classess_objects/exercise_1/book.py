@@ -8,6 +8,11 @@ class Book:
         print(f"Title: {self.title}")
         print("fAuthor: {self.author}")
         print(f"Year: {self.year}")
-        
 
-print(Book("1984", "George Orwell", 1949))
+    def __str__(self):
+        return f"Book: {self.title}, Author: {self.author}, Year: {self.year}"
+
+        
+book = Book("1984", "George Orwell", 1949)
+book.display_info()
+print(book)

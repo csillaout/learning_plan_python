@@ -1,5 +1,8 @@
 =======================================
+
 LEARNING PLAN
+
+=======================================
 
 - Python Basics
 - Intermediate Python
@@ -9,7 +12,10 @@ LEARNING PLAN
 - Project
 
 =======================================
+
 RESOURCES
+
+=======================================
 
 Python: Official Documentation & Python3 Fundamentals - Pluralsight
 Python: Beginner Guides and Documentation

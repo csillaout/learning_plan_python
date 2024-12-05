@@ -54,7 +54,7 @@ WEEK 1
 - Find at least one Python module and/or library and write a function that utilizes it
 - Understand **init**.py and **main**
 
-🔨Exercises
+💪 Exercises
 
 - Rock, Paper, Scissors
 - Guess the Word
@@ -78,7 +78,7 @@ WEEK 1
 - Install the pytests unit testing library
 - Use a TDD approach to create some functions by writing the tests before creating the functions.
 
-🔨Exercises
+💪 Exercises
 
 - Word Frequency Analyzer: Create a word frequency analyzer that reads a text file, process its contents, and generate a report of the frequency of each word in the file. Be sure to utilize exception handling and write unit tests.
 - Movie Recommendation System: Create a movie recommendation system that will suggest movies to users based on their preferences and previously watched movies. The program should read a file containing a list of previously watched movies and their genres and recommends movies based on the values in the file. Be sure to utilize exception handling and write unit tests.
@@ -111,7 +111,7 @@ WEEK 2
 - Create a class with private attributes and methods.
 - Use getter and setter methods to access and modify private attributes.
 
-🔨 Exercises
+💪 Exercises
 
 - Inventory Management System: Create an online store inventory that allows users to add, update, and view products in an store's inventory. Users should also be able to perform operations such as checking stock availability, calculating total inventory value, and generating inventory reports.
 
@@ -138,7 +138,9 @@ WEEK 2
 
 WEEK 3 & 4
 
-======================================= 5. Project
+=======================================
+
+5. Project
 
 🍔 RECIPE FINDER 🍔
 

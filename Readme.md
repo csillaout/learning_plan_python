@@ -24,11 +24,11 @@ WEEK 1
 1. Python Basics
 
 - Understand the Fundamentals of Python Programming
-  ✧ Install Python on computer
-  Create first Python file in VSCode
-  Use a print statement to output "Hello World" to the console
-  Run file using the command python3 FILE_NAME
-  Learn about variables, data types, and basic Python syntax
+  -- Install Python on computer
+  -- Create first Python file in VSCode
+  -- Use a print statement to output "Hello World" to the console
+  -- Run file using the command python3 FILE_NAME
+  -- Learn about variables, data types, and basic Python syntax
 
 - Learn About Python Data Structures
   Understand the basics of Python's3 of the the built-in data types: lists, tuples, and, dictionaries

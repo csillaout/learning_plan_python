@@ -35,3 +35,6 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Failed to analyze the file:{e}")
 
+
+#run the program and print result in terminal: python3 word_frequency_analyzer.py
+#run the test: pytest 

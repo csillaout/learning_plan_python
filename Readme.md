@@ -1,6 +1,5 @@
-==========================================================================
+=======================================
 LEARNING PLAN
-==========================================================================
 
 - Python Basics
 - Intermediate Python
@@ -9,9 +8,8 @@ LEARNING PLAN
 - Review
 - Build Something Using Python!
 
-==========================================================================
+=======================================
 RESOURCES
-==========================================================================
 Python: Official Documentation & Python3 Fundamentals - Pluralsight
 Python: Beginner Guides and Documentation
 Pytest: Testing in Python 3

@@ -24,7 +24,7 @@ WEEK 1
 1. Python Basics
 
 - Understand the Fundamentals of Python Programming
-  Install Python on computer
+  ✧ Install Python on computer
   Create first Python file in VSCode
   Use a print statement to output "Hello World" to the console
   Run file using the command python3 FILE_NAME
@@ -43,8 +43,8 @@ WEEK 1
   Understand **init**.py and **main**
 
 - Exercises:
-  #1 - Rock, Paper, Scissors
-  #2 - Guess the Word
+  Rock, Paper, Scissors
+  Guess the Word
 
   2. Intermediate Python
      This section covers the following topics:
